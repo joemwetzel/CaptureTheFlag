@@ -1,0 +1,24 @@
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.exe.config
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.exe
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.pdb
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.xml
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.Main.resources
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.Resources.resources
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.exe
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.xml
+C:\Documents and Settings\wetzel\Desktop\code\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.pdb
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.exe.config
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.exe
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.xml
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.pdb
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.exe
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.pdb
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\bin\Release\CaptureTheFlag.xml
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.Main.resources
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\CaptureTheFlag.Resources.resources
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wetzel\Desktop\CaptureTheFlag\CaptureTheFlag\obj\x86\Release\GenerateResource.write.1.tlog
